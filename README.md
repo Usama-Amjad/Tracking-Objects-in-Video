@@ -1,1 +1,2 @@
 # Tracking_Objects_in_Video_with_Particle_Filters
+In this project, we will tackle a real-world computer vision problem.  We will locating and tracking a target in a video shot with a digital camera. In this project we encountered some of the classic challenges that make computer vision difficult: noisy sensor data, objects that change shape, and occlusion (object hidden from view). We had tackle all these challenges with an artificial intelligence technique called a particle filter.
